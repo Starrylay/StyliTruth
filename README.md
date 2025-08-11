@@ -2,4 +2,5 @@
 
 ![](./images_stylitruth/main.png)
 
-Respo for paper “Balancing Stylization and Truth via Disentangled Representation Steering”
+Repository for paper “Balancing Stylization and Truth via Disentangled Representation Steering”.
+Data and code will be published soon.
