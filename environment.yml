@@ -1,4 +1,4 @@
-name: DRESSllm
+name: StyliTruth
 channels:
   - pytorch
   - nvidia
