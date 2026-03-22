@@ -1,3 +1,5 @@
+
+[![Dataset on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/starrylay/StyliTruth-TruthfulQA-ZN)
 # StyliTruth
 
 ![](./images_stylitruth/main.png)
